@@ -1,0 +1,140 @@
+{
+    "res": {
+        "lib/css/bootstrap-responsive.css": {
+            "uri": "/static/lib/css/bootstrap-responsive_871defe.css",
+            "type": "css",
+            "pkg": "p1"
+        },
+        "lib/css/bootstrap.css": {
+            "uri": "/static/lib/css/bootstrap_ca58062.css",
+            "type": "css",
+            "pkg": "p1"
+        },
+        "lib/js/html5.js": {
+            "uri": "/static/lib/js/html5_fb4e3b1.js",
+            "type": "js",
+            "pkg": "p0"
+        },
+        "lib/js/jquery-1.10.1.js": {
+            "uri": "/static/lib/js/jquery-1.10.1_bd42b40.js",
+            "type": "js",
+            "pkg": "p0"
+        },
+        "lib/js/mod.js": {
+            "uri": "/static/lib/js/mod_8e7b7e4.js",
+            "type": "js",
+            "pkg": "p0"
+        },
+        "page/index.css": {
+            "uri": "/static/page/index_3cb6829.css",
+            "type": "css",
+            "pkg": "p1"
+        },
+        "widget/nav/nav.css": {
+            "uri": "/static/widget/nav/nav_0c08cf0.css",
+            "type": "css",
+            "pkg": "p1"
+        },
+        "widget/nav/nav.js": {
+            "uri": "/static/widget/nav/nav_437b427.js",
+            "type": "js",
+            "deps": [
+                "widget/nav/nav.css"
+            ],
+            "pkg": "p0"
+        },
+        "widget/nav/nav2.js": {
+            "uri": "/static/widget/nav/nav_437b422.js",
+            "type": "js",
+            "deps": [
+                "widget/nav/nav.css"
+            ]
+        },
+        "widget/nav/nav.ftl": {
+            "uri": "widget/nav/nav.ftl",
+            "type": "tpl",
+            "deps": [
+                "widget/nav/nav.js",
+                "widget/nav/nav.css"
+            ]
+        },
+        "widget/section/section.css": {
+            "uri": "/static/widget/section/section_a18f8ab.css",
+            "type": "css",
+            "pkg": "p1"
+        },
+        "widget/section/section.tpl": {
+            "uri": "widget/section/section.tpl",
+            "type": "tpl",
+            "deps": [
+                "widget/section/section.css"
+            ]
+        },
+        "widget/sidebar/sidebar.css": {
+            "uri": "/static/widget/sidebar/sidebar_5c2775c.css",
+            "type": "css",
+            "pkg": "p1"
+        },
+        "widget/sidebar/sidebar.js": {
+            "uri": "/static/widget/sidebar/sidebar_e3431cf.js",
+            "type": "js",
+            "deps": [
+                "widget/sidebar/sidebar.css"
+            ],
+            "pkg": "p0"
+        },
+        "widget/sidebar/sidebar.tpl": {
+            "uri": "widget/sidebar/sidebar.tpl",
+            "type": "tpl",
+            "deps": [
+                "widget/sidebar/sidebar.js",
+                "widget/sidebar/sidebar.css"
+            ]
+        },
+        "widget/slogan/slogan.css": {
+            "uri": "/static/widget/slogan/slogan_d9920e8.css",
+            "type": "css",
+            "deps": [
+                "widget/section/section.css"
+            ],
+            "pkg": "p1"
+        },
+        "widget/slogan/slogan.tpl": {
+            "uri": "widget/slogan/slogan.tpl",
+            "type": "tpl",
+            "deps": [
+                "widget/slogan/slogan.css"
+            ]
+        }
+    },
+    "pkg": {
+        "p0": {
+            "uri": "/static/pkg/aio_b90c7b6.js",
+            "type": "js",
+            "has": [
+                "lib/js/mod.js",
+                "lib/js/html5.js",
+                "lib/js/jquery-1.10.1.js",
+                "widget/nav/nav.js",
+                "widget/sidebar/sidebar.js"
+            ],
+            "deps": [
+                "widget/nav/nav.css",
+                "widget/sidebar/sidebar.css"
+            ]
+        },
+        "p1": {
+            "uri": "/static/pkg/aio_0c372ea.css",
+            "type": "css",
+            "has": [
+                "lib/css/bootstrap.css",
+                "lib/css/bootstrap-responsive.css",
+                "page/index.css",
+                "widget/nav/nav.css",
+                "widget/section/section.css",
+                "widget/sidebar/sidebar.css",
+                "widget/slogan/slogan.css"
+            ]
+        }
+    }
+}

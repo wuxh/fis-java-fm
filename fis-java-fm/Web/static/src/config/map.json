@@ -1,0 +1,733 @@
+{
+    "res": {
+        "Web/static/Web/static/Web/static/Web/static/Web/static/lib/css/bootstrap-responsive_871defe_871defe_871defe_871defe_871defe.css": {
+            "uri": "/static/Web/static/Web/static/Web/static/Web/static/Web/static/lib/css/bootstrap-responsive_871defe_871defe_871defe_871defe_871defe_871defe.css",
+            "type": "css",
+            "pkg": "p1"
+        },
+        "Web/static/Web/static/Web/static/Web/static/Web/static/lib/css/bootstrap_ca58062_ca58062_ca58062_ca58062_ca58062.css": {
+            "uri": "/static/Web/static/Web/static/Web/static/Web/static/Web/static/lib/css/bootstrap_ca58062_ca58062_ca58062_ca58062_ca58062_ca58062.css",
+            "type": "css",
+            "pkg": "p1"
+        },
+        "Web/static/Web/static/Web/static/Web/static/Web/static/lib/js/html5_fb4e3b1_fb4e3b1_fb4e3b1_fb4e3b1_fb4e3b1.js": {
+            "uri": "/static/Web/static/Web/static/Web/static/Web/static/Web/static/lib/js/html5_fb4e3b1_fb4e3b1_fb4e3b1_fb4e3b1_fb4e3b1_fb4e3b1.js",
+            "type": "js",
+            "pkg": "p0"
+        },
+        "Web/static/Web/static/Web/static/Web/static/Web/static/lib/js/jquery-1.10.1_bd42b40_bd42b40_bd42b40_bd42b40_bd42b40.js": {
+            "uri": "/static/Web/static/Web/static/Web/static/Web/static/Web/static/lib/js/jquery-1.10.1_bd42b40_bd42b40_bd42b40_bd42b40_bd42b40_bd42b40.js",
+            "type": "js",
+            "pkg": "p0"
+        },
+        "Web/static/Web/static/Web/static/Web/static/Web/static/lib/js/mod_8e7b7e4_8e7b7e4_8e7b7e4_8e7b7e4_8e7b7e4.js": {
+            "uri": "/static/Web/static/Web/static/Web/static/Web/static/Web/static/lib/js/mod_8e7b7e4_8e7b7e4_8e7b7e4_8e7b7e4_8e7b7e4_8e7b7e4.js",
+            "type": "js",
+            "pkg": "p0"
+        },
+        "Web/static/Web/static/Web/static/Web/static/Web/static/page/index_3cb6829_3cb6829_3cb6829_3cb6829_3cb6829.css": {
+            "uri": "/static/Web/static/Web/static/Web/static/Web/static/Web/static/page/index_3cb6829_3cb6829_3cb6829_3cb6829_3cb6829_3cb6829.css",
+            "type": "css",
+            "pkg": "p1"
+        },
+        "Web/static/Web/static/Web/static/Web/static/Web/static/pkg/aio_0c372ea_0c372ea_0c372ea_0c372ea_0c372ea.css": {
+            "uri": "/static/Web/static/Web/static/Web/static/Web/static/Web/static/pkg/aio_0c372ea_0c372ea_0c372ea_0c372ea_0c372ea_0c372ea.css",
+            "type": "css",
+            "deps": [
+                "widget/section/section.css"
+            ],
+            "pkg": "p1"
+        },
+        "Web/static/Web/static/Web/static/Web/static/Web/static/pkg/aio_b90c7b6_b90c7b6_b90c7b6_b90c7b6_b90c7b6.js": {
+            "uri": "/static/Web/static/Web/static/Web/static/Web/static/Web/static/pkg/aio_b90c7b6_b90c7b6_b90c7b6_b90c7b6_b90c7b6_b90c7b6.js",
+            "type": "js",
+            "pkg": "p0"
+        },
+        "Web/static/Web/static/Web/static/Web/static/Web/static/widget/nav/nav_0c08cf0_0c08cf0_0c08cf0_0c08cf0_0c08cf0.css": {
+            "uri": "/static/Web/static/Web/static/Web/static/Web/static/Web/static/widget/nav/nav_0c08cf0_0c08cf0_0c08cf0_0c08cf0_0c08cf0_0c08cf0.css",
+            "type": "css",
+            "pkg": "p1"
+        },
+        "Web/static/Web/static/Web/static/Web/static/Web/static/widget/nav/nav_437b427_437b427_437b427_437b427_437b427.js": {
+            "uri": "/static/Web/static/Web/static/Web/static/Web/static/Web/static/widget/nav/nav_437b427_437b427_437b427_437b427_437b427_437b427.js",
+            "type": "js",
+            "pkg": "p0"
+        },
+        "Web/static/Web/static/Web/static/Web/static/Web/static/widget/section/section_a18f8ab_a18f8ab_a18f8ab_a18f8ab_a18f8ab.css": {
+            "uri": "/static/Web/static/Web/static/Web/static/Web/static/Web/static/widget/section/section_a18f8ab_a18f8ab_a18f8ab_a18f8ab_a18f8ab_a18f8ab.css",
+            "type": "css",
+            "pkg": "p1"
+        },
+        "Web/static/Web/static/Web/static/Web/static/Web/static/widget/sidebar/sidebar_5c2775c_5c2775c_5c2775c_5c2775c_5c2775c.css": {
+            "uri": "/static/Web/static/Web/static/Web/static/Web/static/Web/static/widget/sidebar/sidebar_5c2775c_5c2775c_5c2775c_5c2775c_5c2775c_5c2775c.css",
+            "type": "css",
+            "pkg": "p1"
+        },
+        "Web/static/Web/static/Web/static/Web/static/Web/static/widget/sidebar/sidebar_e3431cf_e3431cf_e3431cf_e3431cf_e3431cf.js": {
+            "uri": "/static/Web/static/Web/static/Web/static/Web/static/Web/static/widget/sidebar/sidebar_e3431cf_e3431cf_e3431cf_e3431cf_e3431cf_e3431cf.js",
+            "type": "js",
+            "pkg": "p0"
+        },
+        "Web/static/Web/static/Web/static/Web/static/Web/static/widget/slogan/slogan_d9920e8_d9920e8_d9920e8_d9920e8_d9920e8.css": {
+            "uri": "/static/Web/static/Web/static/Web/static/Web/static/Web/static/widget/slogan/slogan_d9920e8_d9920e8_d9920e8_d9920e8_d9920e8_d9920e8.css",
+            "type": "css",
+            "deps": [
+                "widget/section/section.css"
+            ],
+            "pkg": "p1"
+        },
+        "Web/static/Web/static/Web/static/Web/static/lib/css/bootstrap-responsive_871defe_871defe_871defe_871defe.css": {
+            "uri": "/static/Web/static/Web/static/Web/static/Web/static/lib/css/bootstrap-responsive_871defe_871defe_871defe_871defe_871defe.css",
+            "type": "css",
+            "pkg": "p1"
+        },
+        "Web/static/Web/static/Web/static/Web/static/lib/css/bootstrap_ca58062_ca58062_ca58062_ca58062.css": {
+            "uri": "/static/Web/static/Web/static/Web/static/Web/static/lib/css/bootstrap_ca58062_ca58062_ca58062_ca58062_ca58062.css",
+            "type": "css",
+            "pkg": "p1"
+        },
+        "Web/static/Web/static/Web/static/Web/static/lib/js/html5_fb4e3b1_fb4e3b1_fb4e3b1_fb4e3b1.js": {
+            "uri": "/static/Web/static/Web/static/Web/static/Web/static/lib/js/html5_fb4e3b1_fb4e3b1_fb4e3b1_fb4e3b1_fb4e3b1.js",
+            "type": "js",
+            "pkg": "p0"
+        },
+        "Web/static/Web/static/Web/static/Web/static/lib/js/jquery-1.10.1_bd42b40_bd42b40_bd42b40_bd42b40.js": {
+            "uri": "/static/Web/static/Web/static/Web/static/Web/static/lib/js/jquery-1.10.1_bd42b40_bd42b40_bd42b40_bd42b40_bd42b40.js",
+            "type": "js",
+            "pkg": "p0"
+        },
+        "Web/static/Web/static/Web/static/Web/static/lib/js/mod_8e7b7e4_8e7b7e4_8e7b7e4_8e7b7e4.js": {
+            "uri": "/static/Web/static/Web/static/Web/static/Web/static/lib/js/mod_8e7b7e4_8e7b7e4_8e7b7e4_8e7b7e4_8e7b7e4.js",
+            "type": "js",
+            "pkg": "p0"
+        },
+        "Web/static/Web/static/Web/static/Web/static/page/index_3cb6829_3cb6829_3cb6829_3cb6829.css": {
+            "uri": "/static/Web/static/Web/static/Web/static/Web/static/page/index_3cb6829_3cb6829_3cb6829_3cb6829_3cb6829.css",
+            "type": "css",
+            "pkg": "p1"
+        },
+        "Web/static/Web/static/Web/static/Web/static/pkg/aio_0c372ea_0c372ea_0c372ea_0c372ea.css": {
+            "uri": "/static/Web/static/Web/static/Web/static/Web/static/pkg/aio_0c372ea_0c372ea_0c372ea_0c372ea_0c372ea.css",
+            "type": "css",
+            "deps": [
+                "widget/section/section.css"
+            ],
+            "pkg": "p1"
+        },
+        "Web/static/Web/static/Web/static/Web/static/pkg/aio_971df14_971df14_971df14_971df14.css": {
+            "uri": "/static/Web/static/Web/static/Web/static/Web/static/pkg/aio_971df14_971df14_971df14_971df14_971df14.css",
+            "type": "css",
+            "deps": [
+                "widget/section/section.css"
+            ],
+            "pkg": "p1"
+        },
+        "Web/static/Web/static/Web/static/Web/static/pkg/aio_a7a359d_a7a359d_a7a359d_a7a359d.js": {
+            "uri": "/static/Web/static/Web/static/Web/static/Web/static/pkg/aio_a7a359d_a7a359d_a7a359d_a7a359d_a7a359d.js",
+            "type": "js",
+            "pkg": "p0"
+        },
+        "Web/static/Web/static/Web/static/Web/static/pkg/aio_b90c7b6_b90c7b6_b90c7b6_b90c7b6.js": {
+            "uri": "/static/Web/static/Web/static/Web/static/Web/static/pkg/aio_b90c7b6_b90c7b6_b90c7b6_b90c7b6_b90c7b6.js",
+            "type": "js",
+            "pkg": "p0"
+        },
+        "Web/static/Web/static/Web/static/Web/static/widget/nav/nav_0c08cf0_0c08cf0_0c08cf0_0c08cf0.css": {
+            "uri": "/static/Web/static/Web/static/Web/static/Web/static/widget/nav/nav_0c08cf0_0c08cf0_0c08cf0_0c08cf0_0c08cf0.css",
+            "type": "css",
+            "pkg": "p1"
+        },
+        "Web/static/Web/static/Web/static/Web/static/widget/nav/nav_437b427_437b427_437b427_437b427.js": {
+            "uri": "/static/Web/static/Web/static/Web/static/Web/static/widget/nav/nav_437b427_437b427_437b427_437b427_437b427.js",
+            "type": "js",
+            "pkg": "p0"
+        },
+        "Web/static/Web/static/Web/static/Web/static/widget/section/section_a18f8ab_a18f8ab_a18f8ab_a18f8ab.css": {
+            "uri": "/static/Web/static/Web/static/Web/static/Web/static/widget/section/section_a18f8ab_a18f8ab_a18f8ab_a18f8ab_a18f8ab.css",
+            "type": "css",
+            "pkg": "p1"
+        },
+        "Web/static/Web/static/Web/static/Web/static/widget/sidebar/sidebar_5c2775c_5c2775c_5c2775c_5c2775c.css": {
+            "uri": "/static/Web/static/Web/static/Web/static/Web/static/widget/sidebar/sidebar_5c2775c_5c2775c_5c2775c_5c2775c_5c2775c.css",
+            "type": "css",
+            "pkg": "p1"
+        },
+        "Web/static/Web/static/Web/static/Web/static/widget/sidebar/sidebar_e3431cf_e3431cf_e3431cf_e3431cf.js": {
+            "uri": "/static/Web/static/Web/static/Web/static/Web/static/widget/sidebar/sidebar_e3431cf_e3431cf_e3431cf_e3431cf_e3431cf.js",
+            "type": "js",
+            "pkg": "p0"
+        },
+        "Web/static/Web/static/Web/static/Web/static/widget/slogan/slogan_d9920e8_d9920e8_d9920e8_d9920e8.css": {
+            "uri": "/static/Web/static/Web/static/Web/static/Web/static/widget/slogan/slogan_d9920e8_d9920e8_d9920e8_d9920e8_d9920e8.css",
+            "type": "css",
+            "deps": [
+                "widget/section/section.css"
+            ],
+            "pkg": "p1"
+        },
+        "Web/static/Web/static/Web/static/lib/css/bootstrap-responsive_871defe_871defe_871defe.css": {
+            "uri": "/static/Web/static/Web/static/Web/static/lib/css/bootstrap-responsive_871defe_871defe_871defe_871defe.css",
+            "type": "css",
+            "pkg": "p1"
+        },
+        "Web/static/Web/static/Web/static/lib/css/bootstrap_ca58062_ca58062_ca58062.css": {
+            "uri": "/static/Web/static/Web/static/Web/static/lib/css/bootstrap_ca58062_ca58062_ca58062_ca58062.css",
+            "type": "css",
+            "pkg": "p1"
+        },
+        "Web/static/Web/static/Web/static/lib/js/html5_fb4e3b1_fb4e3b1_fb4e3b1.js": {
+            "uri": "/static/Web/static/Web/static/Web/static/lib/js/html5_fb4e3b1_fb4e3b1_fb4e3b1_fb4e3b1.js",
+            "type": "js",
+            "pkg": "p0"
+        },
+        "Web/static/Web/static/Web/static/lib/js/jquery-1.10.1_bd42b40_bd42b40_bd42b40.js": {
+            "uri": "/static/Web/static/Web/static/Web/static/lib/js/jquery-1.10.1_bd42b40_bd42b40_bd42b40_bd42b40.js",
+            "type": "js",
+            "pkg": "p0"
+        },
+        "Web/static/Web/static/Web/static/lib/js/mod_8e7b7e4_8e7b7e4_8e7b7e4.js": {
+            "uri": "/static/Web/static/Web/static/Web/static/lib/js/mod_8e7b7e4_8e7b7e4_8e7b7e4_8e7b7e4.js",
+            "type": "js",
+            "pkg": "p0"
+        },
+        "Web/static/Web/static/Web/static/page/index_3cb6829_3cb6829_3cb6829.css": {
+            "uri": "/static/Web/static/Web/static/Web/static/page/index_3cb6829_3cb6829_3cb6829_3cb6829.css",
+            "type": "css",
+            "pkg": "p1"
+        },
+        "Web/static/Web/static/Web/static/pkg/aio_08006a9_08006a9_08006a9.js": {
+            "uri": "/static/Web/static/Web/static/Web/static/pkg/aio_08006a9_08006a9_08006a9_08006a9.js",
+            "type": "js",
+            "pkg": "p0"
+        },
+        "Web/static/Web/static/Web/static/pkg/aio_0c372ea_0c372ea_0c372ea.css": {
+            "uri": "/static/Web/static/Web/static/Web/static/pkg/aio_0c372ea_0c372ea_0c372ea_0c372ea.css",
+            "type": "css",
+            "deps": [
+                "widget/section/section.css"
+            ],
+            "pkg": "p1"
+        },
+        "Web/static/Web/static/Web/static/pkg/aio_971df14_971df14_971df14.css": {
+            "uri": "/static/Web/static/Web/static/Web/static/pkg/aio_971df14_971df14_971df14_971df14.css",
+            "type": "css",
+            "deps": [
+                "widget/section/section.css"
+            ],
+            "pkg": "p1"
+        },
+        "Web/static/Web/static/Web/static/pkg/aio_9b16358_9b16358_9b16358.css": {
+            "uri": "/static/Web/static/Web/static/Web/static/pkg/aio_9b16358_9b16358_9b16358_9b16358.css",
+            "type": "css",
+            "deps": [
+                "widget/section/section.css"
+            ],
+            "pkg": "p1"
+        },
+        "Web/static/Web/static/Web/static/pkg/aio_a7a359d_a7a359d_a7a359d.js": {
+            "uri": "/static/Web/static/Web/static/Web/static/pkg/aio_a7a359d_a7a359d_a7a359d_a7a359d.js",
+            "type": "js",
+            "pkg": "p0"
+        },
+        "Web/static/Web/static/Web/static/pkg/aio_b90c7b6_b90c7b6_b90c7b6.js": {
+            "uri": "/static/Web/static/Web/static/Web/static/pkg/aio_b90c7b6_b90c7b6_b90c7b6_b90c7b6.js",
+            "type": "js",
+            "pkg": "p0"
+        },
+        "Web/static/Web/static/Web/static/widget/nav/nav_0c08cf0_0c08cf0_0c08cf0.css": {
+            "uri": "/static/Web/static/Web/static/Web/static/widget/nav/nav_0c08cf0_0c08cf0_0c08cf0_0c08cf0.css",
+            "type": "css",
+            "pkg": "p1"
+        },
+        "Web/static/Web/static/Web/static/widget/nav/nav_437b427_437b427_437b427.js": {
+            "uri": "/static/Web/static/Web/static/Web/static/widget/nav/nav_437b427_437b427_437b427_437b427.js",
+            "type": "js",
+            "pkg": "p0"
+        },
+        "Web/static/Web/static/Web/static/widget/section/section_a18f8ab_a18f8ab_a18f8ab.css": {
+            "uri": "/static/Web/static/Web/static/Web/static/widget/section/section_a18f8ab_a18f8ab_a18f8ab_a18f8ab.css",
+            "type": "css",
+            "pkg": "p1"
+        },
+        "Web/static/Web/static/Web/static/widget/sidebar/sidebar_5c2775c_5c2775c_5c2775c.css": {
+            "uri": "/static/Web/static/Web/static/Web/static/widget/sidebar/sidebar_5c2775c_5c2775c_5c2775c_5c2775c.css",
+            "type": "css",
+            "pkg": "p1"
+        },
+        "Web/static/Web/static/Web/static/widget/sidebar/sidebar_e3431cf_e3431cf_e3431cf.js": {
+            "uri": "/static/Web/static/Web/static/Web/static/widget/sidebar/sidebar_e3431cf_e3431cf_e3431cf_e3431cf.js",
+            "type": "js",
+            "pkg": "p0"
+        },
+        "Web/static/Web/static/Web/static/widget/slogan/slogan_d9920e8_d9920e8_d9920e8.css": {
+            "uri": "/static/Web/static/Web/static/Web/static/widget/slogan/slogan_d9920e8_d9920e8_d9920e8_d9920e8.css",
+            "type": "css",
+            "deps": [
+                "widget/section/section.css"
+            ],
+            "pkg": "p1"
+        },
+        "Web/static/Web/static/lib/css/bootstrap-responsive_871defe_871defe.css": {
+            "uri": "/static/Web/static/Web/static/lib/css/bootstrap-responsive_871defe_871defe_871defe.css",
+            "type": "css",
+            "pkg": "p1"
+        },
+        "Web/static/Web/static/lib/css/bootstrap_ca58062_ca58062.css": {
+            "uri": "/static/Web/static/Web/static/lib/css/bootstrap_ca58062_ca58062_ca58062.css",
+            "type": "css",
+            "pkg": "p1"
+        },
+        "Web/static/Web/static/lib/js/html5_fb4e3b1_fb4e3b1.js": {
+            "uri": "/static/Web/static/Web/static/lib/js/html5_fb4e3b1_fb4e3b1_fb4e3b1.js",
+            "type": "js",
+            "pkg": "p0"
+        },
+        "Web/static/Web/static/lib/js/jquery-1.10.1_bd42b40_bd42b40.js": {
+            "uri": "/static/Web/static/Web/static/lib/js/jquery-1.10.1_bd42b40_bd42b40_bd42b40.js",
+            "type": "js",
+            "pkg": "p0"
+        },
+        "Web/static/Web/static/lib/js/mod_8e7b7e4_8e7b7e4.js": {
+            "uri": "/static/Web/static/Web/static/lib/js/mod_8e7b7e4_8e7b7e4_8e7b7e4.js",
+            "type": "js",
+            "pkg": "p0"
+        },
+        "Web/static/Web/static/page/index_3cb6829_3cb6829.css": {
+            "uri": "/static/Web/static/Web/static/page/index_3cb6829_3cb6829_3cb6829.css",
+            "type": "css",
+            "pkg": "p1"
+        },
+        "Web/static/Web/static/pkg/aio_08006a9_08006a9.js": {
+            "uri": "/static/Web/static/Web/static/pkg/aio_08006a9_08006a9_08006a9.js",
+            "type": "js",
+            "pkg": "p0"
+        },
+        "Web/static/Web/static/pkg/aio_0c372ea_0c372ea.css": {
+            "uri": "/static/Web/static/Web/static/pkg/aio_0c372ea_0c372ea_0c372ea.css",
+            "type": "css",
+            "deps": [
+                "widget/section/section.css"
+            ],
+            "pkg": "p1"
+        },
+        "Web/static/Web/static/pkg/aio_971df14_971df14.css": {
+            "uri": "/static/Web/static/Web/static/pkg/aio_971df14_971df14_971df14.css",
+            "type": "css",
+            "deps": [
+                "widget/section/section.css"
+            ],
+            "pkg": "p1"
+        },
+        "Web/static/Web/static/pkg/aio_9b16358_9b16358.css": {
+            "uri": "/static/Web/static/Web/static/pkg/aio_9b16358_9b16358_9b16358.css",
+            "type": "css",
+            "deps": [
+                "widget/section/section.css"
+            ],
+            "pkg": "p1"
+        },
+        "Web/static/Web/static/pkg/aio_9cb78d4_9cb78d4.js": {
+            "uri": "/static/Web/static/Web/static/pkg/aio_9cb78d4_9cb78d4_9cb78d4.js",
+            "type": "js",
+            "pkg": "p0"
+        },
+        "Web/static/Web/static/pkg/aio_a7a359d_a7a359d.js": {
+            "uri": "/static/Web/static/Web/static/pkg/aio_a7a359d_a7a359d_a7a359d.js",
+            "type": "js",
+            "pkg": "p0"
+        },
+        "Web/static/Web/static/pkg/aio_b90c7b6_b90c7b6.js": {
+            "uri": "/static/Web/static/Web/static/pkg/aio_b90c7b6_b90c7b6_b90c7b6.js",
+            "type": "js",
+            "pkg": "p0"
+        },
+        "Web/static/Web/static/pkg/aio_c3f2261_c3f2261.css": {
+            "uri": "/static/Web/static/Web/static/pkg/aio_c3f2261_c3f2261_c3f2261.css",
+            "type": "css",
+            "deps": [
+                "widget/section/section.css"
+            ],
+            "pkg": "p1"
+        },
+        "Web/static/Web/static/widget/nav/nav_0c08cf0_0c08cf0.css": {
+            "uri": "/static/Web/static/Web/static/widget/nav/nav_0c08cf0_0c08cf0_0c08cf0.css",
+            "type": "css",
+            "pkg": "p1"
+        },
+        "Web/static/Web/static/widget/nav/nav_437b427_437b427.js": {
+            "uri": "/static/Web/static/Web/static/widget/nav/nav_437b427_437b427_437b427.js",
+            "type": "js",
+            "pkg": "p0"
+        },
+        "Web/static/Web/static/widget/section/section_a18f8ab_a18f8ab.css": {
+            "uri": "/static/Web/static/Web/static/widget/section/section_a18f8ab_a18f8ab_a18f8ab.css",
+            "type": "css",
+            "pkg": "p1"
+        },
+        "Web/static/Web/static/widget/sidebar/sidebar_5c2775c_5c2775c.css": {
+            "uri": "/static/Web/static/Web/static/widget/sidebar/sidebar_5c2775c_5c2775c_5c2775c.css",
+            "type": "css",
+            "pkg": "p1"
+        },
+        "Web/static/Web/static/widget/sidebar/sidebar_e3431cf_e3431cf.js": {
+            "uri": "/static/Web/static/Web/static/widget/sidebar/sidebar_e3431cf_e3431cf_e3431cf.js",
+            "type": "js",
+            "pkg": "p0"
+        },
+        "Web/static/Web/static/widget/slogan/slogan_d9920e8_d9920e8.css": {
+            "uri": "/static/Web/static/Web/static/widget/slogan/slogan_d9920e8_d9920e8_d9920e8.css",
+            "type": "css",
+            "deps": [
+                "widget/section/section.css"
+            ],
+            "pkg": "p1"
+        },
+        "Web/static/lib/css/bootstrap-responsive_871defe.css": {
+            "uri": "/static/Web/static/lib/css/bootstrap-responsive_871defe_871defe.css",
+            "type": "css",
+            "pkg": "p1"
+        },
+        "Web/static/lib/css/bootstrap_ca58062.css": {
+            "uri": "/static/Web/static/lib/css/bootstrap_ca58062_ca58062.css",
+            "type": "css",
+            "pkg": "p1"
+        },
+        "Web/static/lib/js/html5_fb4e3b1.js": {
+            "uri": "/static/Web/static/lib/js/html5_fb4e3b1_fb4e3b1.js",
+            "type": "js",
+            "pkg": "p0"
+        },
+        "Web/static/lib/js/jquery-1.10.1_bd42b40.js": {
+            "uri": "/static/Web/static/lib/js/jquery-1.10.1_bd42b40_bd42b40.js",
+            "type": "js",
+            "pkg": "p0"
+        },
+        "Web/static/lib/js/mod_8e7b7e4.js": {
+            "uri": "/static/Web/static/lib/js/mod_8e7b7e4_8e7b7e4.js",
+            "type": "js",
+            "pkg": "p0"
+        },
+        "Web/static/page/index_3cb6829.css": {
+            "uri": "/static/Web/static/page/index_3cb6829_3cb6829.css",
+            "type": "css",
+            "pkg": "p1"
+        },
+        "Web/static/pkg/aio_08006a9.js": {
+            "uri": "/static/Web/static/pkg/aio_08006a9_08006a9.js",
+            "type": "js",
+            "pkg": "p0"
+        },
+        "Web/static/pkg/aio_0c372ea.css": {
+            "uri": "/static/Web/static/pkg/aio_0c372ea_0c372ea.css",
+            "type": "css",
+            "deps": [
+                "widget/section/section.css"
+            ],
+            "pkg": "p1"
+        },
+        "Web/static/pkg/aio_0c6a377.js": {
+            "uri": "/static/Web/static/pkg/aio_0c6a377_0c6a377.js",
+            "type": "js",
+            "pkg": "p0"
+        },
+        "Web/static/pkg/aio_3874dcd.css": {
+            "uri": "/static/Web/static/pkg/aio_3874dcd_3874dcd.css",
+            "type": "css",
+            "deps": [
+                "widget/section/section.css"
+            ],
+            "pkg": "p1"
+        },
+        "Web/static/pkg/aio_971df14.css": {
+            "uri": "/static/Web/static/pkg/aio_971df14_971df14.css",
+            "type": "css",
+            "deps": [
+                "widget/section/section.css"
+            ],
+            "pkg": "p1"
+        },
+        "Web/static/pkg/aio_9b16358.css": {
+            "uri": "/static/Web/static/pkg/aio_9b16358_9b16358.css",
+            "type": "css",
+            "deps": [
+                "widget/section/section.css"
+            ],
+            "pkg": "p1"
+        },
+        "Web/static/pkg/aio_9cb78d4.js": {
+            "uri": "/static/Web/static/pkg/aio_9cb78d4_9cb78d4.js",
+            "type": "js",
+            "pkg": "p0"
+        },
+        "Web/static/pkg/aio_a7a359d.js": {
+            "uri": "/static/Web/static/pkg/aio_a7a359d_a7a359d.js",
+            "type": "js",
+            "pkg": "p0"
+        },
+        "Web/static/pkg/aio_b90c7b6.js": {
+            "uri": "/static/Web/static/pkg/aio_b90c7b6_b90c7b6.js",
+            "type": "js",
+            "pkg": "p0"
+        },
+        "Web/static/pkg/aio_c3f2261.css": {
+            "uri": "/static/Web/static/pkg/aio_c3f2261_c3f2261.css",
+            "type": "css",
+            "deps": [
+                "widget/section/section.css"
+            ],
+            "pkg": "p1"
+        },
+        "Web/static/widget/nav/nav_0c08cf0.css": {
+            "uri": "/static/Web/static/widget/nav/nav_0c08cf0_0c08cf0.css",
+            "type": "css",
+            "pkg": "p1"
+        },
+        "Web/static/widget/nav/nav_437b427.js": {
+            "uri": "/static/Web/static/widget/nav/nav_437b427_437b427.js",
+            "type": "js",
+            "pkg": "p0"
+        },
+        "Web/static/widget/section/section_a18f8ab.css": {
+            "uri": "/static/Web/static/widget/section/section_a18f8ab_a18f8ab.css",
+            "type": "css",
+            "pkg": "p1"
+        },
+        "Web/static/widget/sidebar/sidebar_5c2775c.css": {
+            "uri": "/static/Web/static/widget/sidebar/sidebar_5c2775c_5c2775c.css",
+            "type": "css",
+            "pkg": "p1"
+        },
+        "Web/static/widget/sidebar/sidebar_e3431cf.js": {
+            "uri": "/static/Web/static/widget/sidebar/sidebar_e3431cf_e3431cf.js",
+            "type": "js",
+            "pkg": "p0"
+        },
+        "Web/static/widget/slogan/slogan_d9920e8.css": {
+            "uri": "/static/Web/static/widget/slogan/slogan_d9920e8_d9920e8.css",
+            "type": "css",
+            "deps": [
+                "widget/section/section.css"
+            ],
+            "pkg": "p1"
+        },
+        "lib/css/bootstrap-responsive.css": {
+            "uri": "/static/lib/css/bootstrap-responsive_871defe.css",
+            "type": "css",
+            "pkg": "p1"
+        },
+        "lib/css/bootstrap.css": {
+            "uri": "/static/lib/css/bootstrap_ca58062.css",
+            "type": "css",
+            "pkg": "p1"
+        },
+        "lib/js/html5.js": {
+            "uri": "/static/lib/js/html5_fb4e3b1.js",
+            "type": "js",
+            "pkg": "p0"
+        },
+        "lib/js/jquery-1.10.1.js": {
+            "uri": "/static/lib/js/jquery-1.10.1_bd42b40.js",
+            "type": "js",
+            "pkg": "p0"
+        },
+        "lib/js/mod.js": {
+            "uri": "/static/lib/js/mod_8e7b7e4.js",
+            "type": "js",
+            "pkg": "p0"
+        },
+        "page/index.css": {
+            "uri": "/static/page/index_3cb6829.css",
+            "type": "css",
+            "pkg": "p1"
+        },
+        "widget/nav/nav.css": {
+            "uri": "/static/widget/nav/nav_0c08cf0.css",
+            "type": "css",
+            "pkg": "p1"
+        },
+        "widget/nav/nav.ftl": {
+            "uri": "widget/nav/nav.ftl",
+            "type": "ftl",
+            "deps": [
+                "widget/nav/nav.js",
+                "widget/nav/nav.css"
+            ]
+        },
+        "widget/nav/nav.js": {
+            "uri": "/static/widget/nav/nav_437b427.js",
+            "type": "js",
+            "deps": [
+                "widget/nav/nav.css"
+            ],
+            "pkg": "p0"
+        },
+        "widget/section/section.css": {
+            "uri": "/static/widget/section/section_a18f8ab.css",
+            "type": "css",
+            "pkg": "p1"
+        },
+        "widget/section/section.ftl": {
+            "uri": "widget/section/section.ftl",
+            "type": "ftl",
+            "deps": [
+                "widget/section/section.css"
+            ]
+        },
+        "widget/sidebar/sidebar.css": {
+            "uri": "/static/widget/sidebar/sidebar_5c2775c.css",
+            "type": "css",
+            "pkg": "p1"
+        },
+        "widget/sidebar/sidebar.ftl": {
+            "uri": "widget/sidebar/sidebar.ftl",
+            "type": "ftl",
+            "deps": [
+                "widget/sidebar/sidebar.js",
+                "widget/sidebar/sidebar.css"
+            ]
+        },
+        "widget/sidebar/sidebar.js": {
+            "uri": "/static/widget/sidebar/sidebar_e3431cf.js",
+            "type": "js",
+            "deps": [
+                "widget/sidebar/sidebar.css"
+            ],
+            "pkg": "p0"
+        },
+        "widget/slogan/slogan.css": {
+            "uri": "/static/widget/slogan/slogan_d9920e8.css",
+            "type": "css",
+            "deps": [
+                "widget/section/section.css"
+            ],
+            "pkg": "p1"
+        },
+        "widget/slogan/slogan.ftl": {
+            "uri": "widget/slogan/slogan.ftl",
+            "type": "ftl",
+            "deps": [
+                "widget/slogan/slogan.css"
+            ]
+        }
+    },
+    "pkg": {
+        "p0": {
+            "uri": "/static/pkg/aio_f6ab5fc.js",
+            "type": "js",
+            "has": [
+                "lib/js/mod.js",
+                "lib/js/html5.js",
+                "lib/js/jquery-1.10.1.js",
+                "Web/static/Web/static/Web/static/Web/static/Web/static/lib/js/html5_fb4e3b1_fb4e3b1_fb4e3b1_fb4e3b1_fb4e3b1.js",
+                "Web/static/Web/static/Web/static/Web/static/Web/static/lib/js/jquery-1.10.1_bd42b40_bd42b40_bd42b40_bd42b40_bd42b40.js",
+                "Web/static/Web/static/Web/static/Web/static/Web/static/lib/js/mod_8e7b7e4_8e7b7e4_8e7b7e4_8e7b7e4_8e7b7e4.js",
+                "Web/static/Web/static/Web/static/Web/static/Web/static/pkg/aio_b90c7b6_b90c7b6_b90c7b6_b90c7b6_b90c7b6.js",
+                "Web/static/Web/static/Web/static/Web/static/Web/static/widget/nav/nav_437b427_437b427_437b427_437b427_437b427.js",
+                "Web/static/Web/static/Web/static/Web/static/Web/static/widget/sidebar/sidebar_e3431cf_e3431cf_e3431cf_e3431cf_e3431cf.js",
+                "Web/static/Web/static/Web/static/Web/static/lib/js/html5_fb4e3b1_fb4e3b1_fb4e3b1_fb4e3b1.js",
+                "Web/static/Web/static/Web/static/Web/static/lib/js/jquery-1.10.1_bd42b40_bd42b40_bd42b40_bd42b40.js",
+                "Web/static/Web/static/Web/static/Web/static/lib/js/mod_8e7b7e4_8e7b7e4_8e7b7e4_8e7b7e4.js",
+                "Web/static/Web/static/Web/static/Web/static/pkg/aio_a7a359d_a7a359d_a7a359d_a7a359d.js",
+                "Web/static/Web/static/Web/static/Web/static/pkg/aio_b90c7b6_b90c7b6_b90c7b6_b90c7b6.js",
+                "Web/static/Web/static/Web/static/Web/static/widget/nav/nav_437b427_437b427_437b427_437b427.js",
+                "Web/static/Web/static/Web/static/Web/static/widget/sidebar/sidebar_e3431cf_e3431cf_e3431cf_e3431cf.js",
+                "Web/static/Web/static/Web/static/lib/js/html5_fb4e3b1_fb4e3b1_fb4e3b1.js",
+                "Web/static/Web/static/Web/static/lib/js/jquery-1.10.1_bd42b40_bd42b40_bd42b40.js",
+                "Web/static/Web/static/Web/static/lib/js/mod_8e7b7e4_8e7b7e4_8e7b7e4.js",
+                "Web/static/Web/static/Web/static/pkg/aio_08006a9_08006a9_08006a9.js",
+                "Web/static/Web/static/Web/static/pkg/aio_a7a359d_a7a359d_a7a359d.js",
+                "Web/static/Web/static/Web/static/pkg/aio_b90c7b6_b90c7b6_b90c7b6.js",
+                "Web/static/Web/static/Web/static/widget/nav/nav_437b427_437b427_437b427.js",
+                "Web/static/Web/static/Web/static/widget/sidebar/sidebar_e3431cf_e3431cf_e3431cf.js",
+                "Web/static/Web/static/lib/js/html5_fb4e3b1_fb4e3b1.js",
+                "Web/static/Web/static/lib/js/jquery-1.10.1_bd42b40_bd42b40.js",
+                "Web/static/Web/static/lib/js/mod_8e7b7e4_8e7b7e4.js",
+                "Web/static/Web/static/pkg/aio_08006a9_08006a9.js",
+                "Web/static/Web/static/pkg/aio_9cb78d4_9cb78d4.js",
+                "Web/static/Web/static/pkg/aio_a7a359d_a7a359d.js",
+                "Web/static/Web/static/pkg/aio_b90c7b6_b90c7b6.js",
+                "Web/static/Web/static/widget/nav/nav_437b427_437b427.js",
+                "Web/static/Web/static/widget/sidebar/sidebar_e3431cf_e3431cf.js",
+                "Web/static/lib/js/html5_fb4e3b1.js",
+                "Web/static/lib/js/jquery-1.10.1_bd42b40.js",
+                "Web/static/lib/js/mod_8e7b7e4.js",
+                "Web/static/pkg/aio_08006a9.js",
+                "Web/static/pkg/aio_0c6a377.js",
+                "Web/static/pkg/aio_9cb78d4.js",
+                "Web/static/pkg/aio_a7a359d.js",
+                "Web/static/pkg/aio_b90c7b6.js",
+                "Web/static/widget/nav/nav_437b427.js",
+                "Web/static/widget/sidebar/sidebar_e3431cf.js",
+                "widget/nav/nav.js",
+                "widget/sidebar/sidebar.js"
+            ],
+            "deps": [
+                "widget/nav/nav.css",
+                "widget/sidebar/sidebar.css"
+            ]
+        },
+        "p1": {
+            "uri": "/static/pkg/aio_f2dc21e.css",
+            "type": "css",
+            "has": [
+                "lib/css/bootstrap.css",
+                "lib/css/bootstrap-responsive.css",
+                "Web/static/Web/static/Web/static/Web/static/Web/static/lib/css/bootstrap-responsive_871defe_871defe_871defe_871defe_871defe.css",
+                "Web/static/Web/static/Web/static/Web/static/Web/static/lib/css/bootstrap_ca58062_ca58062_ca58062_ca58062_ca58062.css",
+                "Web/static/Web/static/Web/static/Web/static/Web/static/page/index_3cb6829_3cb6829_3cb6829_3cb6829_3cb6829.css",
+                "widget/section/section.css",
+                "Web/static/Web/static/Web/static/Web/static/Web/static/pkg/aio_0c372ea_0c372ea_0c372ea_0c372ea_0c372ea.css",
+                "Web/static/Web/static/Web/static/Web/static/Web/static/widget/nav/nav_0c08cf0_0c08cf0_0c08cf0_0c08cf0_0c08cf0.css",
+                "Web/static/Web/static/Web/static/Web/static/Web/static/widget/section/section_a18f8ab_a18f8ab_a18f8ab_a18f8ab_a18f8ab.css",
+                "Web/static/Web/static/Web/static/Web/static/Web/static/widget/sidebar/sidebar_5c2775c_5c2775c_5c2775c_5c2775c_5c2775c.css",
+                "Web/static/Web/static/Web/static/Web/static/Web/static/widget/slogan/slogan_d9920e8_d9920e8_d9920e8_d9920e8_d9920e8.css",
+                "Web/static/Web/static/Web/static/Web/static/lib/css/bootstrap-responsive_871defe_871defe_871defe_871defe.css",
+                "Web/static/Web/static/Web/static/Web/static/lib/css/bootstrap_ca58062_ca58062_ca58062_ca58062.css",
+                "Web/static/Web/static/Web/static/Web/static/page/index_3cb6829_3cb6829_3cb6829_3cb6829.css",
+                "Web/static/Web/static/Web/static/Web/static/pkg/aio_0c372ea_0c372ea_0c372ea_0c372ea.css",
+                "Web/static/Web/static/Web/static/Web/static/pkg/aio_971df14_971df14_971df14_971df14.css",
+                "Web/static/Web/static/Web/static/Web/static/widget/nav/nav_0c08cf0_0c08cf0_0c08cf0_0c08cf0.css",
+                "Web/static/Web/static/Web/static/Web/static/widget/section/section_a18f8ab_a18f8ab_a18f8ab_a18f8ab.css",
+                "Web/static/Web/static/Web/static/Web/static/widget/sidebar/sidebar_5c2775c_5c2775c_5c2775c_5c2775c.css",
+                "Web/static/Web/static/Web/static/Web/static/widget/slogan/slogan_d9920e8_d9920e8_d9920e8_d9920e8.css",
+                "Web/static/Web/static/Web/static/lib/css/bootstrap-responsive_871defe_871defe_871defe.css",
+                "Web/static/Web/static/Web/static/lib/css/bootstrap_ca58062_ca58062_ca58062.css",
+                "Web/static/Web/static/Web/static/page/index_3cb6829_3cb6829_3cb6829.css",
+                "Web/static/Web/static/Web/static/pkg/aio_0c372ea_0c372ea_0c372ea.css",
+                "Web/static/Web/static/Web/static/pkg/aio_971df14_971df14_971df14.css",
+                "Web/static/Web/static/Web/static/pkg/aio_9b16358_9b16358_9b16358.css",
+                "Web/static/Web/static/Web/static/widget/nav/nav_0c08cf0_0c08cf0_0c08cf0.css",
+                "Web/static/Web/static/Web/static/widget/section/section_a18f8ab_a18f8ab_a18f8ab.css",
+                "Web/static/Web/static/Web/static/widget/sidebar/sidebar_5c2775c_5c2775c_5c2775c.css",
+                "Web/static/Web/static/Web/static/widget/slogan/slogan_d9920e8_d9920e8_d9920e8.css",
+                "Web/static/Web/static/lib/css/bootstrap-responsive_871defe_871defe.css",
+                "Web/static/Web/static/lib/css/bootstrap_ca58062_ca58062.css",
+                "Web/static/Web/static/page/index_3cb6829_3cb6829.css",
+                "Web/static/Web/static/pkg/aio_0c372ea_0c372ea.css",
+                "Web/static/Web/static/pkg/aio_971df14_971df14.css",
+                "Web/static/Web/static/pkg/aio_9b16358_9b16358.css",
+                "Web/static/Web/static/pkg/aio_c3f2261_c3f2261.css",
+                "Web/static/Web/static/widget/nav/nav_0c08cf0_0c08cf0.css",
+                "Web/static/Web/static/widget/section/section_a18f8ab_a18f8ab.css",
+                "Web/static/Web/static/widget/sidebar/sidebar_5c2775c_5c2775c.css",
+                "Web/static/Web/static/widget/slogan/slogan_d9920e8_d9920e8.css",
+                "Web/static/lib/css/bootstrap-responsive_871defe.css",
+                "Web/static/lib/css/bootstrap_ca58062.css",
+                "Web/static/page/index_3cb6829.css",
+                "Web/static/pkg/aio_0c372ea.css",
+                "Web/static/pkg/aio_3874dcd.css",
+                "Web/static/pkg/aio_971df14.css",
+                "Web/static/pkg/aio_9b16358.css",
+                "Web/static/pkg/aio_c3f2261.css",
+                "Web/static/widget/nav/nav_0c08cf0.css",
+                "Web/static/widget/section/section_a18f8ab.css",
+                "Web/static/widget/sidebar/sidebar_5c2775c.css",
+                "Web/static/widget/slogan/slogan_d9920e8.css",
+                "page/index.css",
+                "widget/nav/nav.css",
+                "widget/sidebar/sidebar.css",
+                "widget/slogan/slogan.css"
+            ]
+        }
+    }
+}

@@ -1,0 +1,19 @@
+使用了fis自定义的Freemarker标签的模板，fis静态资源管理系统才会解析。
+fis自定义的Freemarker标签有：
+1. <@html></@html>,作用同html的<html></html>
+
+2. <@head></@head>,作用同html的<head></head>
+
+3. <@body></body>,作用同html的<body></body>
+
+4. <@script></@script>,作用同html的<script></script>,这个标签仅限用于内嵌的script代码，不要用于外链js。另写在这个标签里面的script代码片段，解析后会用匿名函数把代码片段包起来，
+原来的全局变量会变为匿名函数的局部变量，因此全局变量应该写到window下，如window["a"]=1或window.a=1;
+
+5. <@require name="" />,作用是用来加载资源，用法示例如下：
+<@require name="lib/css/bootstrap-responsive.css" />
+<@require name="lib/js/mod.js" />
+
+6. <@widget name"" />, 作用是用来加载freemarker模板，用法示例如下：
+<@widget name="widget/sidebar/sidebar.ftl" />
+
+示例模板可参照/fis-site/page/index.ftl

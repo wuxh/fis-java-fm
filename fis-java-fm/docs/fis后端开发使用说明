@@ -1,0 +1,39 @@
+一、后端java代码里面使用fis步骤(Servlet示例)：
+1. 配置freemarker模板存放路径
+public void init() {
+	// 初始化FreeMarker配置
+	// 创建一个Configuration实例
+	cfg = new Configuration();
+	// 设置FreeMarker的模版文件位置
+	cfg.setServletContextForTemplateLoading(getServletContext(),
+			"template");
+	//设置包装器，并将对象包装为数据模型   
+	cfg.setObjectWrapper(new DefaultObjectWrapper());   
+	
+
+}
+
+2. 构造freemarker模板需要的数据模型
+// 建立数据模型
+Map<String, Object> root = new HashMap<String, Object>();
+// 放入对应数据key value
+Map<String, Object> data = FisDataUtil.getJSON("./data/fis_data.json");
+Map<String, Object> data2 = FisDataUtil.getJSON("./data/test_data.json");
+
+root.putAll(data);
+root.putAll(data2);
+
+3. 取得模板文件
+Template t = cfg.getTemplate("./page/index.ftl", "utf-8");
+
+4. 生成一个FISResource实例对象
+FISResource fisRes = new FISResource();
+
+5. 指定输出对象
+PrintWriter out = response.getWriter();
+
+6. 合并数据模型和模版，并将结果输出到out中
+FreeMarkertUtil.processTemplate(t, root, out, fisRes);
+
+具体示例代码请参照
+/src/fis/test/demo/FISFreemarkerServlet.java

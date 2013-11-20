@@ -1,0 +1,50 @@
+{
+	"github":"https://github.com/fis-dev/fis/",
+	"github_wiki":"https://github.com/fis-dev/fis/wiki/",
+	"title":"F.I.S - 前端集成解决方案",
+	"description": "适用于所有大中小企业的前端集成解决方案，为前端团体提供前端性能优化、静态资源管理、编译工具等技术基础，实现前端生产工业化。",
+	"docs":[
+	{
+		"title":"什么是F.I.S",
+		"doc": "intro",
+		"icon": "leaf",
+		"wiki": "https://github.com/fis-dev/fis/wiki/什么是F.I.S"
+	},
+	{
+		"title":"初识F.I.S",
+		"doc": "quickstart",
+		"icon": "eye-open",
+		"wiki": "https://github.com/fis-dev/fis/wiki/快速上手"
+	},
+	{
+		"title":"三条开发命令",
+		"doc": "commands",
+		"icon": "fire",
+		"wiki": "https://github.com/fis-dev/fis/wiki/快速上手#-1"
+	},
+	{
+		"title":"三种语言能力",
+		"doc": "extlang",
+		"icon": "gift",
+		"wiki": "https://github.com/fis-dev/fis/wiki/三种语言能力"
+	},
+	{
+		"title":"静态资源管理",
+		"doc": "srms",
+		"icon": "magnet",
+		"wiki": "https://github.com/fis-dev/fis/wiki/基于map.json的前后端架构设计指导"
+	},
+	{
+		"title":"前端资源聚合",
+		"doc": "integrated",
+		"icon": "inbox",
+		"wiki": "https://github.com/fis-dev/fis/wiki/基于map.json的前后端架构设计指导"
+	},
+	{
+		"title":"小示例",
+		"doc": "demo",
+		"icon": "tint",
+		"wiki": "https://github.com/fis-dev/fis/wiki/fis官网项目"
+	}
+	]
+}

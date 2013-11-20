@@ -1,0 +1,6 @@
+fis使用约定：
+1 map.json默认发布到后端目录:/WEN-INF/classes/config/map.json
+2. 测试数据目录/data默认发布到后端目录:/WEN-INF/classes/data/
+3. 测试数据采用标准json数据格式(key值要带双引号,如{"key1":"value1"})
+4. 后端eclipse下执行 Project->clean命令时，会把fis发布过去的/config/,/data/目录一起清理掉，这时需要重新运行fis发布脚本。
+5. 开发模板之前请先与后端同事商定好数据格式，前端开发时可先写测试数据，测试数据文件放在/data/目录下。后端同事应按商定好的数据格式输出数据，并保证接口数据格式的正确性(建议能对提供数据的api编写自动化单元测试)。

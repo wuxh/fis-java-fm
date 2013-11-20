@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="Web/WEB-INF/lib/freemarker.jar"/>
+	<classpathentry kind="lib" path="Web/WEB-INF/lib/jackson-core-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="Web/WEB-INF/lib/jackson-mapper-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="Web/WEB-INF/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="Web/WEB-INF/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="Web/WEB-INF/classes"/>
+</classpath>
