@@ -28,11 +28,6 @@ public class FISResource {
 	private static final Logger logger = Logger
 			.getLogger(FISResource.class);
     
-    /**
-	 * 定时更新配置服务
-	 */
-//	private static ScheduledExecutorService ses = ThreadPools
-//			.newScheduledExecutorService(1, "FISResource:更新mapJson文件");
 	
 	/**
 	 * 初始化操作
@@ -40,27 +35,13 @@ public class FISResource {
 	static {
 		 
 
-		// 定时服务
-//		Runnable task = new Runnable() {
-//
-//			public void run() {
-//				try {
-//					registerAll(FISResource.DEFAULT_CONFIG_DIR);
-//				} catch (FISException e) {
-//					logger.error("定时加载mapJson文件出错！", e);
-//				} finally {
-//					ses.schedule(this, 60, TimeUnit.SECONDS);
-//				}
-//			}
-//		};
-//		task.run();
+
 		
 		Timer timer = new Timer(true); 
 		timer.schedule(
 			new TimerTask() { 
 				public void run() { 
 					try {
-						logger.error("registerAll");
 						registerAll(FISResource.DEFAULT_CONFIG_DIR);
 					} catch (FISException e) {
 						logger.error("定时加载mapJson文件出错！", e);
