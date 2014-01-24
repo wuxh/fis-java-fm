@@ -12,8 +12,6 @@ fis.config.merge({
             //md后缀的文件编译为html
             md : 'html'
         },
-        //配置所有资源的domain
-        domain : 'http://fis.baidu.com',
         path : [
             {
                 //map.json文件
@@ -26,6 +24,14 @@ fis.config.merge({
                 reg : /^\/(data\/.*\.json)/i,
                 //发布到/template/widget/xxx目录
                 release : '/WEB-INF/classes/$&'
+            },
+            {
+                reg : '**.jsp' //jsp文件不调整部署结构
+            },
+            {
+                //widget/section/doc/下的html文件,不调整部署结构
+                reg : /^\/(widget\/section\/docs\/.*\.html)/i,
+                release : '$&'
             },
             {
                 //widget下的tpl文件

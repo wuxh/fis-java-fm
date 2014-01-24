@@ -1,15 +1,14 @@
 package fis.test;
 
 import java.io.IOException;
-import java.io.OutputStreamWriter;   
+import java.io.OutputStreamWriter;
 import java.util.Date;
-import java.util.HashMap;   
-import java.util.Map;   
+import java.util.HashMap;
+import java.util.Map;
 
-
-import fis.front.FISException;
-import fis.front.FISResource;
-import fis.front.FreeMarkertUtil;
+import cn.tianya.fw.front.FisException;
+import cn.tianya.fw.front.FisResource;
+import cn.tianya.fw.front.util.FtlUtil;
 import freemarker.template.Template;
 import freemarker.template.TemplateException;
   
@@ -24,17 +23,17 @@ public class RepeatTest {
 	        Map<String,Object> root=new HashMap<String, Object>();   
 	        root.put("repeat", new RepeatDirective());
 	        try {
-	        	FISResource fisRes = new FISResource("./fis/test/config");
-	        	Template template = FreeMarkertUtil.getTemplate(RepeatTest.class
+	        	FisResource fisRes = new FisResource();
+	        	Template template = FtlUtil.getTemplate(RepeatTest.class
 						.getClassLoader().getResource("./fis/test/templates").getPath(), "repeat.ftl", "UTF-8");
-	        	FreeMarkertUtil.processTemplate(template, root, new OutputStreamWriter(System.out), fisRes);
+	        	FtlUtil.processTemplate(template, root, new OutputStreamWriter(System.out), fisRes);
 			} catch (IOException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
 			} catch (TemplateException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
-			} catch (FISException e) {
+			} catch (FisException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}   

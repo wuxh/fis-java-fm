@@ -1,0 +1,18 @@
+{
+	"rules" : [
+	{
+		"requestUri" : "/index.shtml",
+		"templateFile" : "./page/index.ftl",
+		"dataFiles" : ["./data/fis_data.json","./data/test_data.json"]
+	},
+	{
+		"requestUri" : "/list.shtml",
+		"templateFile" : "./page/list.ftl"
+	},
+	{
+		"requestUri" : "/content.shtml",
+		"templateFile" : "page/content.ftl"
+	}
+	]
+
+}
